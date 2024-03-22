@@ -55,9 +55,12 @@
 - 🏃‍♂️ I am passionate about Front-End, Web Performance, Competitive Programming and, Computer vision
 - 🚧 I'm currently focused on improving my ability to provide high quality web applications using .NET
 - 🍀 Ask me about anything, I will be happy to help
-- 💬 Favourite Quotes: 
+- 💬 Favourite Quotes:
+  
   > “Premature optimization is the root of all evil” - Donald knuth
+
   > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
+
 
 # 🧰 My Skills
 <div align="center">
